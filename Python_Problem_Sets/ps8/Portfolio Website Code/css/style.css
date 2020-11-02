@@ -1,0 +1,212 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html,body{
+	width: 100%;
+	height: 100%;
+	font-size: 14px;
+	font-family: arial;
+	font-weight: normal;
+}
+.bg{
+	width: 100%;
+	height: 100%;
+	position: relative;
+	background: url(../images/24.jpg) no-repeat;
+	background-attachment: fixed;
+	overflow-y: auto;
+	background-size: cover;
+}
+.bg::-webkit-scrollbar{
+	width: 5px;
+}
+.bg::-webkit-scrollbar-track{
+	width: 5px;
+	background-color: #fff;
+}
+.bg::-webkit-scrollbar-thumb{
+	width: 5px;
+	background-color: #000;
+}
+.nav {
+	position: fixed;
+	left: 0;
+	bottom: 7%;
+	width: 350px;
+}
+.nav a{
+	display: inline-block;
+	width: 100%;
+	height: 100px;
+	line-height: 100px;
+	float: left;
+	font-size: 30px;
+	font-weight: 900;
+	text-decoration: none;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	text-align: center;
+	/*background-color: rgba(0,0,0,0.225);*/
+	background-color: rgba(0,0,0,1);
+	margin-bottom: 10px;
+	transition: all linear 0.2s;
+	color: rgba(255,255,255,1);
+}
+
+.nav a:nth-child(1){
+	width: 80%;
+}
+.nav a:nth-child(2){
+	width: 90%;
+}
+.nav a:nth-child(3){
+	width: 70%;
+}
+.nav a:nth-child(4){
+	width: 95%;
+}
+.nav a.active{
+	background-color: #fff;
+	color: #000;
+	width: 100%;
+}
+
+.nav a:hover{
+	width: 100%;
+	background-color: #fff;
+	color: #000;
+}
+/*Gallery*/
+.myimage{
+	position: absolute;
+	right: 0;
+	top: 10%;
+	width: 70%;
+	display: none;
+	margin-bottom: 55px;
+	opacity: 0.90;
+	/*transition: all ease-in-out 0.5s;*/
+}
+.myimage img{
+	width: 30%;
+	float: left;
+	margin: 10px;
+	transition: 300ms;
+}
+img:hover{
+	transform: scale(1.1);
+}
+.myimage:hover{
+	/*opacity: 1;*/
+}
+
+/*About Me*/
+.aboutme{
+	position: absolute;
+	right: 0;
+	top: 5%;
+	width: 70%;
+	padding-bottom: 55px;
+	display: none;
+}
+.aboutme p{
+	font-family: century gothic;
+    font-size: 18px;
+    letter-spacing: 0px;
+    line-height: 32px;
+    word-spacing: 4px;
+    color: rgba(255, 255, 255, 0.81);
+    padding: 30px 150px 0 0;
+}
+.home{
+	position: absolute;
+	right: 0;
+	top: 20%;
+	width: 60%;
+	display: inline-block;
+}
+.home h1{
+	font-size: 70px;
+	text-transform: uppercase;
+	font-weight: black;
+	font-family: verdana;
+	color: #000;
+	border-bottom: 1px solid ;
+	margin-bottom: 5px;
+	margin-top: -20%;
+}
+.home h1 small{
+	font-size: 38px;
+	text-transform: none;
+	opacity: 0.5;
+}
+.home h2{
+	font-size: 20px;
+	color: #000;
+	opacity: 0.8;
+}
+
+.contactus{
+	position: absolute;
+	right: 0;
+	top: 22%;
+	width: 60%;
+	display: none;
+}
+
+input[type="text"],
+textarea,
+input[type="submit"]{
+	border: 3px solid #000;
+	color: #fff;
+	width: 50%;
+	height: 50px;
+	margin-bottom: 15px;
+	float: left;
+	font-size: 22px;
+	padding: 0 10px;
+	background-color: rgba(2, 2, 2, 0.4);
+	font-family: arial;
+	outline: none;
+	transition: 300ms;
+}
+input[type="text"]:focus,
+textarea:focus{
+	border-color: #fff;
+}
+textarea{
+	height: 150px;
+	padding-top: 5px;
+	resize: none;
+}
+input[type="submit"]{
+	width: 30%;
+	height: 60px;
+	clear: left;
+	background-color: #000;
+	color: #fff;
+	border-color: #000;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 1px;
+	cursor: pointer;
+}
+input[type="submit"]:hover{
+	background-color: #fff;
+	color: #000;
+	border-color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
