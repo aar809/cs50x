@@ -45,7 +45,7 @@ https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/dfface6ffc1c43e6882a24
   * <a href='https://aaron-test-application.herokuapp.com/'>Bookstore Search</a>: Search for any book to see related information, ratings and reviews. Created with Flask framework. 
     
 ### Final Certificate!
-![Final Certificate](CS50%20certificate.png)
+![Final Certificate](CS50_certificate.jpg)
 
 ### DISCLAIMER:
  [**Academic Honesty**](https://docs.cs50.net/2016/fall/syllabus/cs50.html#academic-honesty).
