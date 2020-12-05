@@ -44,8 +44,8 @@ https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/dfface6ffc1c43e6882a24
 - Other Flask Projects:
   * <a href='https://aaron-test-application.herokuapp.com/'>Bookstore Search</a>: Search for any book to see related information, ratings and reviews. Created with Flask framework. 
     
-### Final Certificate!
-![Final Certificate](CS50_certificate.jpg)
+### Final Certificate:
+![Final Certificate](CS50_certificate.jpg)(https://courses.edx.org/certificates/57e02914d26f4a8e84b7ee39c143ba42)
 
 ### DISCLAIMER:
  [**Academic Honesty**](https://docs.cs50.net/2016/fall/syllabus/cs50.html#academic-honesty).
