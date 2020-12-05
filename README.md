@@ -35,7 +35,8 @@ https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/dfface6ffc1c43e6882a24
   * [Website](/Python_Problem_Sets/ps8/)
   
 - [Web Track Project](/Python_Problem_Sets/web_track/) - <a href='https://cs50.harvard.edu/x/2020/tracks/web/'> Web Tracks</a>
-  * [Stockmarket Trading Simulator](/Python_Problem_Sets/web_track/) - <a href='https://cs50x-stockmarket.herokuapp.com/login'> Stockmarket Trading Simulator</a> 
+  * <a href='https://cs50x-stockmarket.herokuapp.com/login'> Stockmarket Trading Simulator</a> 
+  + [Code](/Python_Problem_Sets/web_track/) 
   
 - [Final Project: Stocks Dashboard](https://cs50-stocks-dashboard.herokuapp.com/)
    * Financial stocks dashboard created using Plotly chart libraries, and Python Flask framework. Used for analyzing stock trends, and company information.
