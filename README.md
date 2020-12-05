@@ -47,4 +47,4 @@ Introduction to the intellectual enterprises of computer science and the art of 
 ![Final Certificate](CS50_certificate.jpg)(https://courses.edx.org/certificates/57e02914d26f4a8e84b7ee39c143ba42)
 
 ### DISCLAIMER:
- [**Academic Honesty**](https://docs.cs50.net/2016/fall/syllabus/cs50.html#academic-honesty).
+ If you are a current student of the course, please be aware of Academic Honesty principles, and use the information on this page only for reference. [**Academic Honesty**](https://docs.cs50.net/2016/fall/syllabus/cs50.html#academic-honesty).
