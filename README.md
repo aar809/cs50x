@@ -6,6 +6,10 @@ Introduction to the intellectual enterprises of computer science and the art of 
 
 ## Table Of Contents
 
+- [Problem Set 0: Scratch](/C_Problem_Sets/ps0/) - <a href='https://cs50.harvard.edu/x/2020/psets/0/'> Instructions</a>
+  * [Code](/C_Problem_Sets/ps0/)
+  * <a href='/https://scratch.mit.edu/projects/396103846/'> Game</a> 
+
 - [Problem Set 1: C](/C_Problem_Sets/ps1/) - <a href='https://cs50.harvard.edu/x/2020/psets/1/'> Instructions</a>
   * [mario](/C_Problem_Sets/ps1/)
   * [cash](/C_Problem_Sets/ps1/)
@@ -15,8 +19,8 @@ Introduction to the intellectual enterprises of computer science and the art of 
   * [readability](/C_Problem_Sets/ps2/)
     
 - [Problem Set3: Algorithms](/C_Problem_Sets/ps3/) - <a href='https://cs50.harvard.edu/x/2020/psets/3/'> Instructions</a> 
-  * [plurality](/C/pset3/plurality)
-  * [runoff](/C/pset3/runoff)
+  * [plurality](/C_Problem_Sets/ps3/)
+  * [runoff](/C_Problem_Sets/ps3/)
 
 - [Problem Set 6: Python](/Python_Problem_Sets/ps6/) - <a href='https://cs50.harvard.edu/x/2020/psets/6/'> Instructions</a>
   * [mario](/Python_Problem_Sets/ps6/)
