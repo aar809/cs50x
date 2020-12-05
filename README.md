@@ -9,42 +9,40 @@ https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/dfface6ffc1c43e6882a24
 ## Table Of Contents
 
 - [Problem Set 1: C](/C_Problem_Sets/ps1/) - <a href='https://cs50.harvard.edu/x/2020/psets/1/'> Assignments 1</a>
-  * [hello](/C_Problem_Sets/ps1/)
-  * mario
-    + [less](/C_Problem_Sets/ps1/)
-    + [more](/C_Problem_Sets/ps1/)
+  * [mario](/C_Problem_Sets/ps1/)
   * [cash](/C_Problem_Sets/ps1/)
-  * [credit](//C_Problem_Sets/ps1/)
   
-- [Problem Set 2: Crypto](/C_Problem_Sets/ps2/) - <a href='https://cs50.harvard.edu/x/2020/psets/2/'> Assignments 2</a> 
+- [Problem Set 2: Arrays](/C_Problem_Sets/ps2/) - <a href='https://cs50.harvard.edu/x/2020/psets/2/'> Assignments 2</a> 
   * [caesar](/C_Problem_Sets/ps2/)
   * [readability](/C_Problem_Sets/ps2/)
-  
-  
-- [Problem Set3: Elections](/C_Problem_Sets/ps3/) - <a href='https://cs50.harvard.edu/x/2020/psets/3/'> Assignments 3</a> 
+    
+- [Problem Set3: Algorithms](/C_Problem_Sets/ps3/) - <a href='https://cs50.harvard.edu/x/2020/psets/3/'> Assignments 3</a> 
   * [plurality](/C/pset3/plurality)
   * [runoff](/C/pset3/runoff)
-  * [tideman](/C/pset3/tideman)
 
 - [Problem Set 6: Python](/Python_Problem_Sets/ps6/) - <a href='https://cs50.harvard.edu/x/2020/psets/6/'> Assignments 6</a>
-  * [hello](/Python/pset6/hello)
-  * mario
-    + [less](/Python_Problem_Sets/ps6/)
-    + [more](/Python_Problem_Sets/ps6/)
+  * [mario](/Python_Problem_Sets/ps6/)
   * [cash](/Python_Problem_Sets/ps6/)
   * [credit](/Python_Problem_Sets/ps6/)
   * [readability](/Python_Problem_Sets/ps6/)
   * [dna](/Python_Problem_Sets/ps6/)
+
 - [Problem Set 7: SQL](/Python_Problem_Sets/ps7/) - <a href='https://cs50.harvard.edu/x/2020/psets/7/'> Assignments 7</a>
   * [movies](/Python_Problem_Sets/ps7/)
   * [houses](/Python_Problem_Sets/ps7/)
-- [Problem Set 8: Web](/Python_Problem_Sets/ps8/) - <a href='https://cs50.harvard.edu/x/2020/tracks/web/'> Web Tracks</a>
-  * [finance](/Python/finance)
-- [Web Track Project](/Python_Problem_Sets/web_track/) - <a href='https://cs50.harvard.edu/x/2020/tracks/web/'> Web Tracks</a>
-  * [finance](/Python/finance)
+
+- [Problem Set 8: Information](/Python_Problem_Sets/ps8/) - <a href='https://cs50.harvard.edu/x/2020/tracks/web/'> Web Tracks</a>
+  * [Website](/Python_Problem_Sets/ps8/)
   
-- [Final Project: Lispy](https://github.com/)
-   * test. <br>
+- [Web Track Project](/Python_Problem_Sets/web_track/) - <a href='https://cs50.harvard.edu/x/2020/tracks/web/'> Web Tracks</a>
+  * [Stockmarket Trading Simulator](/Python_Problem_Sets/web_track/) - <a href='https://cs50x-stockmarket.herokuapp.com/login'> Stockmarket Trading Simulator</a> 
+  
+- [Final Project: Stocks Dashboard](https://cs50-stocks-dashboard.herokuapp.com/)
+   * Financial stocks dashboard created using Plotly chart libraries, and Python Flask framework. Used for analyzing stock trends, and company information.
+   <br>
+   
+- Other Flask Projects:
+  * <a href='https://aaron-test-application.herokuapp.com/'>Bookstore Search</a>: Search for any book to see related information, ratings and reviews. Created with Flask framework. 
     
 ### Final Certificate!
 ![Final Certificate](CS50%20certificate.png)
