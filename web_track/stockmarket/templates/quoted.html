@@ -1,0 +1,41 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quoted
+{% endblock %}
+
+{% block main %}
+
+    <script>
+        // let X = "nothing";
+        function funct()
+        {
+            // document.querySelector("#result").innerHTML = document.querySelector("#shares").value;
+            document.querySelector("#result").innerHTML = "$" + ({{symbol["price"]}} * document.querySelector("#shares").value).toLocaleString();
+        }
+    </script>
+
+    <h3>A share of {{symbol["name"]}} ({{symbol["symbol"]}}) costs: <br> <b></b>${{symbol["price"]}}</b></h3>
+
+    <br>
+    <br>
+    <form action="/buy" method="post" onchange="funct();return true;">
+        <h4> Quick Buy</h4>
+        <div class="form-group">
+            <input autocomplete="off" autofocus class="form-control" name="symbol" placeholder="Symbol" type="text" value={{symbol["symbol"]}} readonly>
+        </div>
+        <div class="form-group">
+            <input autocomplete="off" class="form-control" min="1" id="shares" name="shares" placeholder="Shares" type="number" step="1"/>
+        </div>
+
+        <!--<form action="/register" method="post" onsubmit="funct();return true;">-->
+        <!--    <button class="btn btn-primary" type="submit">Quoted Cost</button>-->
+        Estimated total costs are:
+        <b><div id="result">
+        </div></b>
+        <!--</form>-->
+        <br>
+        <button class="btn btn-primary" type="submit">Quick Buy</button>
+    </form>
+
+{% endblock %}
