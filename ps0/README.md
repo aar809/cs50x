@@ -1,25 +1,7 @@
-# Cash Instructions
+# Problem Set 0 Instructions
 
-Python, and SQL plus students’ choice of: HTML, CSS, and JavaScript (for web development); Java or Swift (for
+Implement an interactive story, game or animation using the Scratch block-based visual programming language.
 
-tl;dr
-Implement, in cash.c at right, a program that first asks the user how much change is owed and then prints the minimum number of coins with which that change can be made.
+To Play the Game: https://scratch.mit.edu/projects/396103846/
 
-## Usage
-Your program should behave per the examples below.
-
-```
-$ ./cash
-Change owed: 0.41
-4
-```
-
-```
-$ ./cash
-Change owed: -0.41
-Change owed: foo
-Change owed: 0.41
-4
-```
-
-Full instructions available here
+Full instructions available here: https://cs50.harvard.edu/x/2020/psets/0/scratch/#:~:text=an%20interactive%20story,%20game,%20animation
