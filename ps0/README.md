@@ -1,7 +1,7 @@
 # Problem Set 0:
 
 ## Instructions
-Implement an interactive story, game or animation using the Scratch block-based visual programming language.
+Implement an interactive story, game or animation using the <b>Scratch block-based visual programming language</b>.
 
 ## Play the Game: 
 https://scratch.mit.edu/projects/396103846/
