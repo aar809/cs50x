@@ -16,6 +16,6 @@ Implement a website via which users can “buy” and “sell” stocks, a la th
 
 ![Finance screenshot](https://cs50.harvard.edu/x/2020/tracks/web/finance/finance.png)
 
-Click <b><a href="https://cs50x-stockmarket.herokuapp.com/login"> here </a></b> to try Virtual Stock Trading Website hosted on Heroku.
+### Click <b><a href="https://cs50x-stockmarket.herokuapp.com/login"> here </a></b> to try Virtual Stock Trading Website hosted on Heroku.
 
 <b> Full instructions <a href='https://cs50.harvard.edu/x/2020/tracks/web/finance/'> here </a>.</b>
