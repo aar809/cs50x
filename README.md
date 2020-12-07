@@ -16,26 +16,26 @@ Introduction to the intellectual enterprises of computer science and the art of 
   * [mario](/ps1/)
   * [cash](/ps1/)
   
-- [Problem Set 2: Arrays](/C_Problem_Sets/ps2/) - <a href='https://cs50.harvard.edu/x/2020/psets/2/'> Instructions</a> 
+- [Problem Set 2: Arrays](/ps2/) - <a href='https://cs50.harvard.edu/x/2020/psets/2/'> Instructions</a> 
   * [caesar](/ps2/)
   * [readability](/ps2/)
     
-- [Problem Set3: Algorithms](/C_Problem_Sets/ps3/) - <a href='https://cs50.harvard.edu/x/2020/psets/3/'> Instructions</a> 
+- [Problem Set3: Algorithms](/ps3/) - <a href='https://cs50.harvard.edu/x/2020/psets/3/'> Instructions</a> 
   * [plurality](/ps3/)
   * [runoff](/ps3/)
 
-- [Problem Set 6: Python](/Python_Problem_Sets/ps6/) - <a href='https://cs50.harvard.edu/x/2020/psets/6/'> Instructions</a>
+- [Problem Set 6: Python](/ps6/) - <a href='https://cs50.harvard.edu/x/2020/psets/6/'> Instructions</a>
   * [mario](/ps6/)
   * [cash](/ps6/)
   * [credit](/ps6/)
   * [readability](/ps6/)
   * [dna](/ps6/)
 
-- [Problem Set 7: SQL](/Python_Problem_Sets/ps7/) - <a href='https://cs50.harvard.edu/x/2020/psets/7/'> Instructions</a>
+- [Problem Set 7: SQL](/ps7/) - <a href='https://cs50.harvard.edu/x/2020/psets/7/'> Instructions</a>
   * [movies](/ps7/)
   * [houses](/ps7/)
 
-- [Problem Set 8: Information](/Python_Problem_Sets/ps8/) - <a href='https://cs50.harvard.edu/x/2020/tracks/web/'> Instructions</a>
+- [Problem Set 8: Information](/ps8/) - <a href='https://cs50.harvard.edu/x/2020/tracks/web/'> Instructions</a>
   * [Website](/ps8/)
   
 - [Web Track Project](/web_track/) - <a href='https://cs50.harvard.edu/x/2020/tracks/web/'> Instructions</a>
