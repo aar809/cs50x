@@ -1,3 +1,5 @@
+The Language used to complete the below problems is <b> Python </b>.
+
 ## Mario 
 ### Instructions:
 Using Python, re-create the pyramids from Nintendo's Super Mario Brothers using "#" symbol in place of bricks based on the height input from user. The program should print out a double half-pyramid of the user specified height.
