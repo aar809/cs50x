@@ -12,35 +12,35 @@ Introduction to the intellectual enterprises of computer science and the art of 
   * [Code](/ps0/)
   * <a href='https://scratch.mit.edu/projects/396103846/'> Game</a> 
 
-- [Problem Set 1: C](/C_Problem_Sets/ps1/) - <a href='https://cs50.harvard.edu/x/2020/psets/1/'> Instructions</a>
-  * [mario](/C_Problem_Sets/ps1/)
-  * [cash](/C_Problem_Sets/ps1/)
+- [Problem Set 1: C](/ps1/) - <a href='https://cs50.harvard.edu/x/2020/psets/1/'> Instructions</a>
+  * [mario](/ps1/)
+  * [cash](/ps1/)
   
 - [Problem Set 2: Arrays](/C_Problem_Sets/ps2/) - <a href='https://cs50.harvard.edu/x/2020/psets/2/'> Instructions</a> 
-  * [caesar](/C_Problem_Sets/ps2/)
-  * [readability](/C_Problem_Sets/ps2/)
+  * [caesar](/ps2/)
+  * [readability](/ps2/)
     
 - [Problem Set3: Algorithms](/C_Problem_Sets/ps3/) - <a href='https://cs50.harvard.edu/x/2020/psets/3/'> Instructions</a> 
-  * [plurality](/C_Problem_Sets/ps3/)
-  * [runoff](/C_Problem_Sets/ps3/)
+  * [plurality](/ps3/)
+  * [runoff](/ps3/)
 
 - [Problem Set 6: Python](/Python_Problem_Sets/ps6/) - <a href='https://cs50.harvard.edu/x/2020/psets/6/'> Instructions</a>
-  * [mario](/Python_Problem_Sets/ps6/)
-  * [cash](/Python_Problem_Sets/ps6/)
-  * [credit](/Python_Problem_Sets/ps6/)
-  * [readability](/Python_Problem_Sets/ps6/)
-  * [dna](/Python_Problem_Sets/ps6/)
+  * [mario](/ps6/)
+  * [cash](/ps6/)
+  * [credit](/ps6/)
+  * [readability](/ps6/)
+  * [dna](/ps6/)
 
 - [Problem Set 7: SQL](/Python_Problem_Sets/ps7/) - <a href='https://cs50.harvard.edu/x/2020/psets/7/'> Instructions</a>
-  * [movies](/Python_Problem_Sets/ps7/)
-  * [houses](/Python_Problem_Sets/ps7/)
+  * [movies](/ps7/)
+  * [houses](/ps7/)
 
 - [Problem Set 8: Information](/Python_Problem_Sets/ps8/) - <a href='https://cs50.harvard.edu/x/2020/tracks/web/'> Instructions</a>
-  * [Website](/Python_Problem_Sets/ps8/)
+  * [Website](/ps8/)
   
-- [Web Track Project](/Python_Problem_Sets/web_track/) - <a href='https://cs50.harvard.edu/x/2020/tracks/web/'> Instructions</a>
+- [Web Track Project](/web_track/) - <a href='https://cs50.harvard.edu/x/2020/tracks/web/'> Instructions</a>
   * <a href='https://cs50x-stockmarket.herokuapp.com/login'> Stockmarket Trading Simulator</a> 
-  + [Code](/Python_Problem_Sets/web_track/) 
+  + [Code](/web_track/) 
   
 - [Final Project: Stocks Dashboard](https://cs50-stocks-dashboard.herokuapp.com/)
    * Financial stocks dashboard created using Plotly chart libraries, and Python Flask framework. Used for analyzing stock trends, and company information.
