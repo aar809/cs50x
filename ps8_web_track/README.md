@@ -2,7 +2,7 @@
 
 ## Project #1: Stock Trading Page
 ### Instructions:
-Implement a website that lets users “buy” and “sell” stocks, a la the below, using Python's Flask framework, SQL, Javascript, HTML, and CSS.
+Implement a website that lets users “buy” and “sell” stocks, a la the below, using Python's Flask framework, SQL (SQLAlchemy), Javascript, HTML, and CSS.
 
 ![Finance screenshot](https://cs50.harvard.edu/x/2020/tracks/web/finance/finance.png)
 
