@@ -1,6 +1,6 @@
 # Problem Set 8 - Web Track:
 
-## Project #1: Stock Trading Page
+## Project #1: Stock Trading Platform
 ### Instructions:
 Implement a website that lets users “buy” and “sell” stocks, a la the below, using Python's Flask framework, SQL (via SQLite database, and SQLAlchemy library), Javascript, HTML, and CSS.
 
